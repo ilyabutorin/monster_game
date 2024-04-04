@@ -1,6 +1,14 @@
 body {
     background-color: #0a0a23;
   }
+
+header {
+  color: azure;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: 24px;
+}  
   
   #text {
     background-color: #0a0a23;
@@ -43,3 +51,11 @@ body {
     background-image: linear-gradient(#fecc4c, #ffac33);
     border: 3px solid #feac32;
   }
+
+footer {
+  color: azure;
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: 24px;
+}
